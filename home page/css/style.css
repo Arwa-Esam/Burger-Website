@@ -1,0 +1,566 @@
+
+/*
+.bg-light{
+	background-color: rgba(1,1,1,.00001);
+}
+.bg-light {
+  background-color: rgba(1,1,1,.00001) !important;
+}
+.nav1{
+	margin-left: 62px;
+    margin-top: 7px;
+}
+.nav2{
+	    margin-top: 7px;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    margin-top: 33px;
+    margin-left: 28px;
+    font-size: 16px;
+    font-family: 'Carter One';
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active{
+	color: rgb(228, 203, 86);
+}
+.logo{
+	    margin-top: 48px;
+    	margin-left: 112px;
+}
+.cart{
+	width: 32px;
+    height: 32px;
+    margin-top: 46px;
+*/
+
+
+body{
+	background-image: url('../image/background.jpg');
+	background-attachment:fixed;
+	background-color: rgba(152,152,142,.3);
+}
+.img-fluid {
+        padding-top: 50px;
+    margin-bottom: 67px;
+}
+.bg-light{
+	background-color: rgba(1,1,1,.00001);
+}
+.bg-light {
+  background-color: rgba(1,1,1,.00001) !important;
+}
+.nav1{
+	margin-left: 62px;
+    margin-top: 7px;
+}
+.nav2{
+	    margin-top: 7px;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    margin-top: 33px;
+    margin-left: 28px;
+    font-size: 16px;
+    font-family: "Luckiest Guy";
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active{
+	color: rgb(228, 203, 86);
+}
+.logo{
+	    margin-top: 48px;
+    	margin-left: 112px;
+}
+.cart{
+	width: 32px;
+    height: 32px;
+    margin-top: 23px;
+    float: right;
+    position: fixed;
+}
+.cart:hover{
+    transition: all .6s;
+    transform: scale(1.2);
+}
+
+.cart2{
+    width: 32px;
+    margin-top: -31px;
+}
+.cart2:hover{
+    transition: all .6s;
+    transform: scale(1.2);
+}
+#tex{
+    text-align: center;
+}
+/*------------------------------------------------------*/
+.best1{
+
+    color: #fff;
+    font-family: 'Segoe Script';
+    margin-bottom: 56px;
+        margin-top: 195px;
+}
+
+/*------------------------------------------------------*/
+
+#c1,#c2,#c3,#c4,#c5,#c6{
+	font-size: 14px;
+    font-family: "Luckiest Guy";
+    color: #fff;
+    margin-top: 32px;	
+}
+#c1:hover,#c2:hover,#c3:hover,#c4:hover,#c5:hover,#c6:hover{
+	color: rgb(228, 203, 86);	
+}
+
+.justify-content-center {
+    margin-bottom: 80px;
+}
+
+/*------------------------------------------------------*/
+
+#m1,#m2,#m3,#m4,#m5,#m6,#m7,#m8,#m9{
+    width: 280px;
+}
+#m1:hover,#m2:hover,#m3:hover,#m4:hover,#m5:hover,#m6:hover,#m7:hover,#m8:hover,#m9:hover{
+    transition: all .6s;
+    opacity: .7;
+    transform: scale(1.2);
+
+}
+
+/*------------------------------------------------------*/
+#d1,#d2,#d3,#d4,#d5,#d6,#d7,#d8,#d9{
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    color: #fff;
+    font-family: 'Carter One';
+}
+h6{
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Carter One';
+}
+
+/*------------------------------------------------------*/
+#h1,#h2,#h3,#h4,#h5,#h6{
+	font-size: 14px;
+    font-family: "Luckiest Guy";
+    color: #fff;
+    margin-top: 9px;	
+}
+#h1:hover,#h2:hover,#h3:hover,#h4:hover,#h5:hover,#h6:hover{
+	color: rgb(228, 203, 86);	
+}
+#logo_footer{
+	margin: 0;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+#f1,#f2,#f3,#f4,#f5,#f6{
+	font-size: 14px;
+    font-family: "Luckiest Guy";
+    color: #fff;
+    margin-top: 32px;	
+}
+#f1:hover,#f2:hover,#f3:hover,#f4:hover,#f5:hover,#f6:hover{
+	color: rgb(228, 203, 86);	
+}
+#logo_header{
+	padding: 0px;
+    margin: 0px;
+    margin-top: 23px;
+    margin-bottom: 22px;
+}
+#logo_header:hover{
+   transition: all .6s;
+    transform: scale(1.2);
+}
+#ul_nav{
+	background-color: #111;
+}
+#ul_nav{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+#nav_n2{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+#logo_header2{
+	padding: 0px;
+    margin: 0px;
+    margin-top: -55px;
+    margin-bottom: -26px;
+}
+#logo_header2:hover{
+   transition: all .6s;
+    transform: scale(1.2);
+}
+
+.bg-dark {
+    background-color: #111 !important;
+}
+.justify-content-center {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#foo{
+    margin-top: 100px;
+    margin-bottom: 15px;
+}
+
+.Our{
+	    font-size: 2.5rem;
+    margin: auto;
+    margin-top: 60px;
+    color: #fff;
+    font-family: 'Segoe Script';
+}
+.big{
+	    margin-left: -18px;
+    margin-top: 55px;
+}
+
+
+.p{    background-color: none;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;  }
+
+p{    color:#878787;
+    font-size: 16px;
+    line-height: 1.4;
+    text-align: center; }
+
+h1 { font-family: "Cooper Black", Times, serif;
+    font-size: 20px;    
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase; }
+.space{
+    height: auto;
+    width: auto;
+}
+.see{
+    color: #fff;
+/*
+    margin: auto;
+    padding-top: 22px;
+    padding-right: 20px;
+    padding-bottom: 22px;
+    padding-left: 31px;
+*/
+    margin: auto;
+    margin-top: 60px;
+    margin-right: 250px;
+}
+
+.what{
+    font-size: 30px;
+    color: #ffffff;
+    text-align: left;
+        box-sizing: border-box;
+    font-weight: 400;
+    font-style: normal;
+    padding-top:170px;
+    padding-left: 50px;
+    
+}
+h2{
+    
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Reenie Beanie;
+    font-weight: 400;
+    font-style: normal;
+}
+.contact{    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-family: Reenie Beanie;
+    font-weight: 400;
+    font-style: normal;}
+
+-----------------------------------
+
+body{
+	background-image: url('../images/background.jpg');
+	background-attachment:fixed;
+	background-color: rgba(152,152,142,.3);
+    position: relative;
+}
+.img-fluid {
+        padding-top: 50px;
+    margin-bottom: 67px;
+}
+.bg-light{
+	background-color: rgba(1,1,1,.00001);
+}
+.bg-light {
+  background-color: rgba(1,1,1,.00001) !important;
+}
+.nav1{
+	margin-left: 62px;
+    margin-top: 7px;
+}
+.nav2{
+	    margin-top: 7px;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    margin-top: 33px;
+    margin-left: 28px;
+    font-size: 16px;
+    font-family: 'Carter One';
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus{
+	color: rgb(228, 203, 86);
+}
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active{
+	color: rgb(228, 203, 86);
+}
+.logo{
+	    margin-top: 48px;
+    	margin-left: 112px;
+}
+.cart{
+	width: 32px;
+    height: 32px;
+    margin-top: 23px;
+    float: right;
+    position: fixed;
+}
+.cart:hover{
+    transition: all .6s;
+    transform: scale(1.2);
+}
+
+.cart2{
+    width: 32px;
+    margin-top: -31px;
+}
+.cart2:hover{
+    transition: all .6s;
+    transform: scale(1.2);
+}
+
+.best1{
+
+    color: #fff;
+    font-family: 'Segoe Script';
+    margin-top: 190px;
+}
+.best2{
+
+    color: #fff;
+    font-family: 'Segoe Script';
+    margin-top: 30px;
+}
+#bes,#coo,#bottom,#decor{
+    text-align: center;
+}
+.big{
+	    margin-left: -18px;
+    margin-top: 55px;
+}
+#h1,#h2,#h3,#h4,#h5,#h6{
+	font-size: 14px;
+    font-family: 'Carter One';
+    color: #fff;
+    margin-top: 9px;	
+}
+#h1:hover,#h2:hover,#h3:hover,#h4:hover,#h5:hover,#h6:hover{
+	transition: all .6s;
+    color: rgb(228, 203, 86);	
+}
+#logo_footer{
+	margin: 0;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+#f1,#f2,#f3,#f4,#f5,#f6{
+	font-size: 14px;
+    font-family: 'Carter One';
+    color: #fff;
+    margin-top: 32px;	
+}
+#f1:hover,#f2:hover,#f3:hover,#f4:hover,#f5:hover,#f6:hover{
+    transition: all .6s;
+	color: rgb(228, 203, 86);	
+}
+#logo_header{
+	padding: 0px;
+    margin: 0px;
+    margin-top: 23px;
+    margin-bottom: 22px;
+}
+#logo_header:hover{
+   transition: all .6s;
+    transform: scale(1.2);
+}
+#ul_nav{
+	background-color: #111;
+}
+
+#logo_header2{
+	padding: 0px;
+    margin: 0px;
+        margin-top: -32px;
+    margin-bottom: -26px;
+}
+#logo_header2:hover{
+   transition: all .6s;
+    transform: scale(1.2);
+}
+
+.bg-dark {
+    background-color: #111 !important;
+}
+#ul_nav{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+#nav_n2{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+#im_1:hover,#im_2:hover,#im_3:hover{
+    transition: all 1s;
+    -webkit-transform: scale(1.3);
+    transform: scale(1.1);
+}
+.justify-content-center {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.ber{
+        margin-top: 180px;
+    font-family: Luckiest Guy;
+    margin-left: 180px;}
+.Bur{
+    font-size: 35px;
+    text-align: center;
+    padding-left: 269px;  
+    color:#fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+#n1:hover,#n2:hover,#n3:hover{
+    transition: all .5s;
+    opacity: .7;
+    transform: scale(1.2);
+}
+.para{
+    font-family: Raleway;
+    line-height: 16px;
+    font-weight: normal;
+    font-style: normal;
+    color: #878787;
+    font-size: 16px;
+    padding: 20px;
+}
+label {
+    color: #fff;
+    font-weight: normal;
+    color: #313131;
+    font-size: 1rem;
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    cursor: default; }
+input{
+width: 100%;
+    height: 45px;
+    border-bottom: 2px solid #b6b5b6;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+    background: none;
+}
+span    font-family: Raleway;
+    line-height: 16px;
+    font-weight: normal;
+    font-style: normal;
+    color: #878787;
+    font-size: 16px;{
+    
+}
+
+.wpcf7-form-control wpcf7-submit{
+
+    height: 57px;
+    width: 182px;
+    color: #eacf4f;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: "Luckiest Guy" !important;
+    font-weight: 400 !important;
+    text-align: center;
+    border-top: 2px solid #eacf4f;
+    border-right: 0px;
+    border-bottom: 2px solid #eacf4f;
+    border-left: 0px;
+    background: none;}
